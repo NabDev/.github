@@ -1,3 +1,4 @@
+![Logo](https://static.nabbot.xyz/img/logo_typography_purple.png)
 ## NabBot Development
 
 For the time being, NabBot is no longer open source. We might have some open source projects in the future.
